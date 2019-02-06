@@ -12,7 +12,7 @@ You can read more about the motivations behind the work [here](https://www.vice.
 
 ### Helen Alexandra
 
-![Helen Alexandra Acrylic](images/alexandra_acrylic.jpg "Helen Alexandra Acrylic")
+![Helen Alexandra - Induction Lodge](images/alexandra_acrylic.jpg "Helen Alexandra - Induction Lodge")
 
 Helen Alexandra uses custom generative software and traditional physical media to blur the lines between digital and physical art. Helen's software renders animations in real time, which she captures at particularly moving movements. She then takes this still and digitally paints over it, blending the algorithmic and human generated aspects. She then prints this on paper or canvas and draws on it with acrylic or ink. Helen's process creates a truly unique look, as it combines features from three different genres into one of its own.
 
